@@ -45,3 +45,5 @@
   
   - Aula 10 - Correção exercícios aula 9 + Decomposição de Séries Temporais
   
+  - Aula 11 - Forecasting - Previsões Para Séries Temporais - Modelo Base
+  
