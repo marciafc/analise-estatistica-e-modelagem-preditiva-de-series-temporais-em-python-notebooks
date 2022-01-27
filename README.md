@@ -43,3 +43,5 @@
 	
   - Aula 09 - Exercícios
   
+  - Aula 10 - Correção exercícios aula 9 + Decomposição de Séries Temporais
+  
