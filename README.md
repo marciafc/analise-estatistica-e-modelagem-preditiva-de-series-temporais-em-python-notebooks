@@ -47,3 +47,5 @@
   
   - Aula 11 - Forecasting - Previsões Para Séries Temporais - Modelo Base
   
+  - Aula 12 - Forecasting - Previsões Para Séries Temporais - Exponential Smoothing
+  
