@@ -49,3 +49,6 @@
   
   - Aula 12 - Forecasting - Previsões Para Séries Temporais - Exponential Smoothing
   
+  - Aula 13 - Forecasting - Previsões Para Séries Temporais - Modelos ARIMA
+
+  
